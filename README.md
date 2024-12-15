@@ -121,4 +121,4 @@ ERLANGGA RIZQI DWI RASWANTO,GA-001,F
 Dibuat oleh **Erlangga Rizqi Dwi Raswanto** sebagai Final Project mata kuliah Dasar Pemrograman.  
 
 Jika ada pertanyaan atau saran, silakan ajukan melalui
-<a href='https://github.com/erlanggardr/Dasar-Pemrograman-2024/issues'>issues tracker</a>.  
+<a href='https://github.com/erlanggardr/airline-system/issues'>issues tracker</a>.  
