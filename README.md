@@ -1,5 +1,7 @@
+---
+
 # Airline Reservation System ✈️  
-https://github.com/erlanggardr/airline-system/tree/main
+https://github.com/erlanggardr/airline-system/tree/main  
 
 Sistem reservasi penerbangan sederhana ini dibuat menggunakan **C** sebagai tugas Final Project Dasar Pemrograman. Program ini memungkinkan pengelolaan data penerbangan, termasuk reservasi dan pembatalan, dengan penyimpanan data berbasis file teks.  
 
@@ -13,6 +15,9 @@ Sistem reservasi penerbangan sederhana ini dibuat menggunakan **C** sebagai tuga
    - Membuat reservasi untuk penumpang.  
    - Membatalkan reservasi yang sudah ada.  
    - Menampilkan detail reservasi penumpang.  
+   - **Menyediakan dua pilihan kelas penerbangan**:  
+     - **First Class**  
+     - **Economy Class (Coach Class)**
 
 3. **Penyimpanan Data yang Efisien**  
    - Informasi penerbangan disimpan di file `flights.txt`.  
@@ -64,8 +69,8 @@ Ikuti petunjuk yang muncul di layar untuk mengelola penerbangan dan reservasi.
 
 ## 📚 Contoh Data  
 
-Pesawat GA-001 dari Jakarta ke Bali, tanggal 15/12/2024 pukul 09:23 - 11:34, dengan kuota penumpang masing-masing 100 untuk kelas First dan Ekonomi.
-Erlangga membeli 1 tiket perjalanan kelas First.
+Pesawat GA-001 dari Jakarta ke Bali, tanggal 15/12/2024 pukul 09:23 - 11:34, dengan kuota penumpang masing-masing 100 untuk kelas First dan Ekonomi.  
+Erlangga membeli 1 tiket perjalanan kelas First.  
 
 ### File `flights.txt`  
 Berisi informasi penerbangan dengan format berikut:  
@@ -82,7 +87,7 @@ GA-001 JAKARTA BALI 15/12/2024 09:23 15/12/2024 11:34 99 1 100 0
 ### File `reservations.txt`  
 Berisi data reservasi penumpang:  
 ```plaintext
-[Passenger Name],[Airline Code],[Class (F/C)]
+[Passenger Name],[Airline Code],[Class (F/E)]
 ```  
 
 **Contoh:**  
@@ -123,3 +128,5 @@ Dibuat oleh **Erlangga Rizqi Dwi Raswanto** sebagai Final Project mata kuliah Da
 
 Jika ada pertanyaan atau saran, silakan ajukan melalui
 <a href='https://github.com/erlanggardr/airline-system/issues'>issues tracker</a>.  
+
+---  
