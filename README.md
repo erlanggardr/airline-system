@@ -76,7 +76,7 @@ Erlangga membeli 1 tiket perjalanan kelas First.
 Berisi informasi penerbangan dengan format berikut:  
 
 ```plaintext
-[Airline Code] [City of Departure] [Destination] [Date Departure] [Time Departure] [Date Arrival] [Time Arrival] [Seats First-Class Available] [Seats First-Class Sold] [Seats Coach Available] [Seats Coach Sold]
+[Airline Code] [City of Departure] [Destination] [Date Departure] [Time Departure] [Date Arrival] [Time Arrival] [Seats First-Class Available] [Seats First-Class Sold] [Seats Economy (Coach) Available] [Seats Economy (Coach) Sold]
 ```  
 
 **Contoh:**  
